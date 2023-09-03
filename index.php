@@ -55,7 +55,7 @@
       <input type="email" name="email" placeholder="your email" required class="box"  />
       <input type="date" name="date" class="box" required/>
       <div class="btn">
-      <button><input type="submit" value="book now" required/></button>
+      <button><input type="submit" class="button" value="book now" required/></button>
       </div>
     </form>
     </div
